@@ -1,2 +1,2 @@
 # creative-page
-small project uses (html5 , Css , JS)
+small project uses HTML5, Css, and JS.
